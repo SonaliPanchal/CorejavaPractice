@@ -1,0 +1,2 @@
+i am doing practice for java It is used to create a buffered character output stream that uses the specified size for an output buffer.It is used to create a buffered character output stream that uses the default size for an output buffer. 
+asdfghjkljasdghjkl;qwerttqwerty;uiop
